@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Space Between'
 uid: f765d82c-0e58-a25e-47d4-f80bc1c1d329

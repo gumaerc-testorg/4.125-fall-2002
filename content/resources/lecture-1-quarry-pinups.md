@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Quarry Pinups'
 uid: c0ea02a4-aa37-3974-bfe8-1e476217c9b0

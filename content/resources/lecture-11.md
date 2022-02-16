@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Final Review A'
 uid: 5c7d48ce-3347-bef8-05e4-b6b64d5a8f1c

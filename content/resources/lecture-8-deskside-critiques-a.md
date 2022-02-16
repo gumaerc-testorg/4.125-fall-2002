@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Deskside Critiques A'
 uid: 43593ecf-8c6d-73a1-d1a6-97095eceb4d7

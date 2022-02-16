@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Pinups '
 uid: 4b094715-005f-6a69-d481-3783b4259a43
