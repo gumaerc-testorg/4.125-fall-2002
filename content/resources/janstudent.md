@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ff255467-dda9-34a8-9cca-023f0f8ff269
 resourcetype: Document
 title: janstudent.pdf
 uid: 3dca862e-db9e-5daa-ff05-90c639312011
