@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Quarry Reviews'
 uid: 9d29c664-6445-994b-c643-f24427292bc1
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** Quarry Reviews
 
 **Instructor:** Prof. Jan Wampler
+

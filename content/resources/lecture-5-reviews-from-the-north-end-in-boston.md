@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Reviews from the North End in Boston'
 uid: 13a5576f-fcd6-0152-689d-284560e6eb38
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** Reviews from the North End in Boston
 
 **Instructor:** Prof. Jan Wampler
+

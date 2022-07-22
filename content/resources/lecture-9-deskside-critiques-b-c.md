@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Deskside Critiques B-C'
 uid: 99837b50-3dec-ef78-fa1c-20c36f03dae7
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** Deskside Critiques B-C
 
 **Instructor:** Prof. Jan Wampler
+

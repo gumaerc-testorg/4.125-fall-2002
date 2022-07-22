@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: ''
 is_media_gallery: true
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: feb60873-e79d-4dd7-57f1-9141603b673a
 videos:
